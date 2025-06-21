@@ -1,0 +1,24 @@
+@media screen and (max-width: 500px) {
+
+    body {
+
+        background-color: red;
+
+    }
+
+    #meulogo {
+
+        align-items: center;
+
+    }
+
+    header {
+
+        flex-direction: column;
+        gap: 10px;
+        font-size: 13px;
+        align-items: flex-start;
+
+    }
+
+}
